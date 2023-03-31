@@ -1,0 +1,63 @@
+*{
+    font-family: 'Cairo', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.form-group label{
+    letter-spacing: 1px;
+    font-size: 18px !important;
+}
+
+.form-group input:focus{
+    transform: scale(105%) !important;
+    -webkit-transform: scale(105%) !important;
+    -moz-transform: scale(105%) !important;
+    -ms-transform: scale(105%) !important;
+    -o-transform: scale(105%) !important;
+    outline: 0 !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    background-color: black !important;
+}
+
+.container input:focus{
+    transform: scale(105%) !important;
+    -webkit-transform: scale(105%) !important;
+    -moz-transform: scale(105%) !important;
+    -ms-transform: scale(105%) !important;
+    -o-transform: scale(105%) !important;
+    outline: 0 !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    background-color: black !important;
+}
+
+.form-group textarea:focus{
+    transform: scale(105%) !important;
+    -webkit-transform: scale(105%) !important;
+    -moz-transform: scale(105%) !important;
+    -ms-transform: scale(105%) !important;
+    -o-transform: scale(105%) !important;
+    outline: 0 !important;
+    border: 0 !important;
+    box-shadow: none !important;
+    background-color: black !important;
+}
+
+.container .add{
+    background-color: #421d92;
+    color: white;
+    font-weight: 800;
+    letter-spacing: 1px;
+}
+
+.container .add:hover{
+    transform: scale(105%) !important;
+    -webkit-transform: scale(105%) !important;
+    -moz-transform: scale(105%) !important;
+    -ms-transform: scale(105%) !important;
+    -o-transform: scale(105%) !important;
+}
+
